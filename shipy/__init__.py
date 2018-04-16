@@ -5,6 +5,4 @@ Created on Sat Apr 14 13:15:28 2018
 @author: Peng
 """
 
-from shipy import shipy
-import numpy
-import scipy
+import shipy

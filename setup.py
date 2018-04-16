@@ -10,7 +10,7 @@ from setuptools import setup
 setup(
       name = 'shipy',
       version = '0.01',
-      description = 'Multivariant Shannon Information',
+      description = 'Multivariate Shannon Information',
       author = 'Pengwyn',
       author_email = '@',
       url = 'https://github.com/ThePengwyn/shipy',

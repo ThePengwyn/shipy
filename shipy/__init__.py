@@ -5,4 +5,4 @@ Created on Sat Apr 14 13:15:28 2018
 @author: Peng
 """
 
-import shipy
+from shipy import shipy

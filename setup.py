@@ -5,7 +5,7 @@ Created on Thu Apr  5 18:10:53 2018
 @author: Peng
 """
 
-from steuptools import setup
+from setuptools import setup
 
 setup(
       name = 'shipy',

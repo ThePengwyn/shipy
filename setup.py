@@ -13,7 +13,8 @@ setup(
       description = 'Multivariant Shannon Information',
       author = 'Pengwyn',
       author_email = '@',
-      url = '',
+      url = 'https://github.com/ThePengwyn/shipy',
+      download_url = 'https://github.com/ThePengwyn/shipy/0.01'
       packages = ['shipy'],
       install_requires = [
               'numpy',

@@ -11,8 +11,8 @@ setup(
       name = 'shipy',
       version = '0.01',
       description = 'Multivariate Shannon Information',
-      author = 'Pengwyn',
-      author_email = '@',
+      author = 'Matthew Graham',
+      author_email = 'mlwgraham1992@gmail.com',
       url = 'https://github.com/ThePengwyn/shipy',
       download_url = 'https://github.com/ThePengwyn/shipy/archive/0.01.tar.gz'
       packages = ['shipy'],

@@ -19,5 +19,11 @@ setup(
       install_requires = [
               'numpy',
               'scipy'
-              ]
+              ],
+      classifiers=[ 
+              'Development Status :: 3 - Alpha', 
+              'Intended Audience :: Science/Research', 
+              'License :: OSI Approved :: Apache Software License',
+              'Programming Language :: Python :: 3'
+              ]   
       )
